@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.main-visual {
+	height: 400px;
+	background-image: url(1-7img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+
+.mv-text {
+	padding: 20px 0 0 20px;
+	color: dimgray;
+}
+
+main {
+	width: 840px;
+	margin: 0 auto;
+}
+
+.content-box {
+	padding: 20px 0 50px 0;
+}
+
+.content-item {
+	padding: 30px 0;
+	border-bottom: 1px solid #000;
+}
